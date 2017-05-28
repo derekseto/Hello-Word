@@ -1,2 +1,3 @@
 # Hello-Word
-first project
+
+Hi, this is my first project on github.  hahahahahha.
